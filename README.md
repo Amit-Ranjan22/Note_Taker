@@ -113,3 +113,7 @@ Install Nodemon. It will always restart the server automatically whenever there 
 ```
 There are no test used for this application.
 ```
+
+## ©️ License & Copyright
+
+Licensed under the [MIT License](License-Copyright/LICENSE).
