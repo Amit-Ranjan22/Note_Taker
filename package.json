@@ -1,0 +1,27 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amit-Ranjan22/Note_Taker.git"
+  },
+  "author": "Amitabh Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amit-Ranjan22/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/Amit-Ranjan22/Note_Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
