@@ -114,6 +114,22 @@ Install Nodemon. It will always restart the server automatically whenever there 
 There are no test used for this application.
 ```
 
+## Screen-Shot of Deployed Application On Heroku
+
+The following images are the screen-shot of the deployed app on Heroku and it shows the web application's appearance and it's functionality:
+
+![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](deployed-app-screenshot/note-taker-screenshot-1.png)
+
+![Note titled “Finish Payroll” reads, “Finish payroll by Sunday night” with other notes listed on the left.](deployed-app-screenshot/note-taker-screenshot-2.png)
+
+---
+
+## Link to the deployed Application On Heroku
+
+- Heroku Link: [my-note-taker-application](https://my-note-taker-application.herokuapp.com/)
+
+---
+
 ## ©️ License & Copyright
 
 Licensed under the [MIT License](License-Copyright/LICENSE).
