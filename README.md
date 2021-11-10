@@ -130,6 +130,13 @@ The following images are the screen-shot of the deployed app on Heroku and it sh
 
 ---
 
+## Link to the Git-Hub repository
+
+- GitHub Link: [
+  Note_Taker](https://github.com/Amit-Ranjan22/Note_Taker.git)
+
+---
+
 ## ©️ License & Copyright
 
 Licensed under the [MIT License](License-Copyright/LICENSE).
