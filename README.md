@@ -1,6 +1,6 @@
-# Note_Taker
+# 📜 Note_Taker
 
-## User Story
+## ✍️ User Story
 
 ```
 As a small business owner
@@ -10,7 +10,7 @@ SO THAT: I can organize my thoughts
          and keep track of tasks I need to complete.
 ```
 
-## Acceptance Criteria
+## 🤝 Acceptance Criteria
 
 ```
 GIVEN a note-taking application
@@ -38,7 +38,7 @@ THEN: I am presented with empty fields to enter a new note
       title and the note’s text in the right-hand column.
 ```
 
-## Mock-Up
+## 🖼️ Mock-Up
 
 ---
 
@@ -48,7 +48,7 @@ The following images show the web application's appearance and functionality:
 
 ![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](public/assets/Mock-Up/11-express-homework-demo-02.png)
 
-## Getting Started
+## 🏃‍♂️ Getting Started
 
 ---
 
@@ -66,7 +66,7 @@ The following API routes should be created:
 
 - `POST /api/notes` should receive a new note to save on the request body, add it to the `db.json` file, and then return the new note to the client.
 
-## Added Functionality
+## 🙋 Added Functionality
 
 ---
 
@@ -78,7 +78,7 @@ This application offers the functionality of 'delete' requests.
 
 - `DELETE /api/notes/:id` should receive a query parameter that contains the id of a note to delete. To delete a note, it's needed to read all notes from the `db.json` file, remove the note with the given `id` property, and then rewrite the notes to the `db.json` file.
 
-## Installation & Usage
+## 💾 Installation & Usage
 
 ---
 
@@ -108,13 +108,13 @@ Install Nodemon. It will always restart the server automatically whenever there 
 
 - OR instead of using the above three steps, you can install nodemon by using command "npm install -g nodemon" and to run the file, you can use terminal command "nodemon server.js".
 
-## Tests
+## 🧪 Tests
 
 ```
 There are no test used for this application.
 ```
 
-## Screen-Shot of Deployed Application On Heroku
+## 🖼️ Screen-Shot of Deployed Application On Heroku
 
 The following images are the screen-shot of the deployed app on Heroku and it shows the web application's appearance and it's functionality:
 
@@ -124,16 +124,34 @@ The following images are the screen-shot of the deployed app on Heroku and it sh
 
 ---
 
-## Link to the deployed Application On Heroku
+## 🔌 Link to the deployed Application On Heroku
 
 - Heroku Link: [my-note-taker-application](https://my-note-taker-application.herokuapp.com/)
 
 ---
 
-## Link to the Git-Hub repository
+## 🔌 Link to the Git-Hub repository
 
 - GitHub Link: [
   Note_Taker](https://github.com/Amit-Ranjan22/Note_Taker.git)
+
+---
+
+<h2 id='contribution'>🧑‍🤝‍🧑 Contribution</h2>
+
+    Amitabh Ranjan
+
+---
+
+<h2 id='questions'>❓ Questions</h2>
+
+<h3>For any question you can reach me at:</h3>
+
+---
+
+<h3>😺GitHub: <a href='https://github.com/Amit-Ranjan22'>Amit-Ranjan22</a></h3>
+
+<h3>📩 Email: <a href='https://mail.google.com/'>amitabh.march22@gmail</a></h3>
 
 ---
 
